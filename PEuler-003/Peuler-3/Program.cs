@@ -19,7 +19,7 @@ namespace Peuler_3
             List<int> primenums = gatherprimes(test);
             int answer = 0;
             
-            //check if they are divisible by the test number.
+            //check if they are divisible by the test number. 
             foreach (int i in primenums)
             {
                 if (testnum % i == 0)
