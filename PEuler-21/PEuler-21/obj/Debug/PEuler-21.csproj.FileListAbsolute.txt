@@ -1,0 +1,6 @@
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-21\PEuler-21\bin\Debug\PEuler-21.exe.config
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-21\PEuler-21\bin\Debug\PEuler-21.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-21\PEuler-21\bin\Debug\PEuler-21.pdb
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-21\PEuler-21\obj\Debug\PEuler-21.csprojResolveAssemblyReference.cache
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-21\PEuler-21\obj\Debug\PEuler-21.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-21\PEuler-21\obj\Debug\PEuler-21.pdb

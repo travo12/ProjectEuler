@@ -1,0 +1,12 @@
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-22\PEuler-22\bin\Debug\PEuler-22.exe.config
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-22\PEuler-22\bin\Debug\PEuler-22.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-22\PEuler-22\bin\Debug\PEuler-22.pdb
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-22\PEuler-22\obj\Debug\PEuler-22.csprojResolveAssemblyReference.cache
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-22\PEuler-22\obj\Debug\PEuler-22.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\ProjectEuler\PEuler-22\PEuler-22\obj\Debug\PEuler-22.pdb
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-22\PEuler-22\bin\Debug\PEuler-22.exe.config
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-22\PEuler-22\obj\Debug\PEuler-22.exe
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-22\PEuler-22\obj\Debug\PEuler-22.pdb
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-22\PEuler-22\bin\Debug\PEuler-22.exe
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-22\PEuler-22\bin\Debug\PEuler-22.pdb
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-22\PEuler-22\obj\Debug\PEuler-22.csprojResolveAssemblyReference.cache

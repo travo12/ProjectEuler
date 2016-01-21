@@ -1,0 +1,6 @@
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-2\PEuler-2\bin\Debug\PEuler-2.exe.config
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-2\PEuler-2\bin\Debug\PEuler-2.exe
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-2\PEuler-2\bin\Debug\PEuler-2.pdb
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-2\PEuler-2\obj\Debug\PEuler-2.csprojResolveAssemblyReference.cache
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-2\PEuler-2\obj\Debug\PEuler-2.exe
+C:\Users\Trav\Desktop\Projects\Project Euler\PEuler-2\PEuler-2\obj\Debug\PEuler-2.pdb
